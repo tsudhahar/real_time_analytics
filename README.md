@@ -1,4 +1,4 @@
-## Real-Time Bid Data Analytics (RTBDA)
+## Real-Time Big Data Analytics (RTBDA)
 
 `References`
 
