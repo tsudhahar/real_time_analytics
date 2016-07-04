@@ -37,10 +37,8 @@ source R, a programming language designed specifically for data an‐
 alytics. He proposes a four-layer RTBDA technology stack. Although
 his stack is geared for predictive analytics, it serves as a good general
 model.
-From David Smith’s presentation, [“Real-Time Big Data
-Analytics: From Deployment To Production”](http://www.revolutionanalytics.com/webinars/real-time-big-data-analytics-deployment-production): 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Real-Time Big Data
-Analytics: From Deployment To Production")
+From David Smith’s presentation, [“Real-Time Big Data Analytics: From Deployment To Production”](http://www.revolutionanalytics.com/webinars/real-time-big-data-analytics-deployment-production): 
+![alt text](https://github.com/tsudhahar/real_time_analytics/blob/master/references/rtbda_stack_r.PNG "Real-Time Big Data Analytics: From Deployment To Production")
 
 ##### Data Layer
 * At the foundation is the data layer. At this level you have structured
